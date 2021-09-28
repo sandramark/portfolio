@@ -1,2 +1,2 @@
 # Portfolio
-The page is published here: https://sandramark.github.io/portfolio/
+My portfolio webpage to present myself. The page is published: https://sandramark.github.io/portfolio/
